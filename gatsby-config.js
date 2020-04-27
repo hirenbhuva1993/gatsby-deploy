@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: `gatsby-deploy`,
   siteMetadata: {
     title: `Gatsby Default Starter`,
     description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
@@ -46,6 +47,10 @@ module.exports = {
         // This feature is untested for sites hosted on wordpress.com.
         // Defaults to true.
         useACF: true,
+        searchAndReplaceContentUrls: {
+          sourceUrl: "http://localhost/xynage",
+          replacementUrl: "https://www.xynage.io",
+        },
         // Set verboseOutput to true to display a verbose output on `npm run develop` or `npm run build`
         // It can help you debug specific API Endpoints problems.
         verboseOutput: true,
