@@ -83,7 +83,7 @@ class PageTemplate extends Component {
     }
     formBody = formBody.join("&");
 
-    return fetch('http://localhost/xynage/wp-json/contact-form-7/v1/contact-forms/436/feedback', {
+    return fetch('https://www.xynage.io/wp-json/contact-form-7/v1/contact-forms/436/feedback', {
         method: 'POST',
         mode: 'CORS',
         body: formBody,

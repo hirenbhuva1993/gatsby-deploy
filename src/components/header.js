@@ -7,7 +7,7 @@ const Header = ({ siteTitle }) => (
     <div className={"container"}>
       <nav className={"navbar navbar-expand-lg navbar-dark"}>
           <Link className={"navbar-brand"} to="/">
-            <img alt="Brand" src="http://localhost/xynage/wp-content/uploads/2019/06/logo.png" />
+            <img alt="Brand" src="https://www.xynage.io/wp-content/uploads/2019/06/logo.png" />
           </Link>
 
           <div className={"collapse navbar-collapse"} id="navbarColor03">
