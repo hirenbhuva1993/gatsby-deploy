@@ -1,0 +1,11 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 470 470" style="enable-background:new 0 0 455 455;" xml:space="preserve"><style type="text/css">
+	.st0_1558336770114{font-family:'Poppins-Medium';}
+	.st1_1558336770114{font-size:120px;}
+</style><g>
+	<g>
+		<g>
+			<path d="M432.5,12.5h-395C16.8,12.5,0,29.3,0,50v300c0,20.7,16.8,37.5,37.5,37.5h145v55H130c-4.1,0-7.5,3.4-7.5,7.5     s3.4,7.5,7.5,7.5h210c4.1,0,7.5-3.4,7.5-7.5s-3.4-7.5-7.5-7.5h-52.5v-55h145c20.7,0,37.5-16.8,37.5-37.5V50     C470,29.3,453.2,12.5,432.5,12.5z M272.5,442.5h-75v-55h75V442.5z M455,350c0,12.4-10.1,22.5-22.5,22.5h-395     C25.1,372.5,15,362.4,15,350v-22.5h440V350z M455,312.5H15V50c0-12.4,10.1-22.5,22.5-22.5h395c12.4,0,22.5,10.1,22.5,22.5V312.5z" vector-effect="non-scaling-stroke" style="fill: rgb(1, 104, 255);"></path>
+			<path d="M432.5,42.5h-395c-4.1,0-7.5,3.4-7.5,7.5v240c0,4.1,3.4,7.5,7.5,7.5h325c4.1,0,7.5-3.4,7.5-7.5s-3.4-7.5-7.5-7.5H45v-225     h380v225h-32.5c-4.1,0-7.5,3.4-7.5,7.5s3.4,7.5,7.5,7.5h40c4.1,0,7.5-3.4,7.5-7.5V50C440,45.9,436.6,42.5,432.5,42.5z" vector-effect="non-scaling-stroke" style="fill: rgb(1, 104, 255);"></path>
+		</g>
+	</g>
+</g><text class="st0_1558336770114 st1_1558336770114" transform="matrix(1 0 0 1 96 210)" vector-effect="non-scaling-stroke" style="fill: rgb(1, 104, 255);">CMS</text></svg>
